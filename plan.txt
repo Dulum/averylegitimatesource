@@ -1,0 +1,9 @@
+Plan:
+make a website for fake articles and scientific studies.
+any user can submit a file (pdf maybe?) of a study, and it is automaticcaly added. I want there to be a search engine for articles submitted, and a way of citing other articles from the website.
+
+Tools I need to know probably:
+login with google.
+SQL based database for the articles.
+frontend with react and bootstrap.
+server with flask.
